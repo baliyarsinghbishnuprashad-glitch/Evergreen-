@@ -1,0 +1,6 @@
+{
+  "name": "EverGreen Interiors",
+  "description": "Modern interior design company specializing in residential and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
